@@ -1,2 +1,2 @@
-# erginkaplan.ozzell.
+# erginkaplan.ozzel.
 .
