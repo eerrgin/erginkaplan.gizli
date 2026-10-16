@@ -1,2 +1,2 @@
-# erginkaplan.gizli.
+# erginkaplan.ozel.
 .
